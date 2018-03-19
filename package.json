@@ -2,7 +2,7 @@
   "name": "webpack-ejemplo",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "ruth salvador",
+  "author": "Betsy Lara, Margarita Suta y Yenny Quiñones",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",

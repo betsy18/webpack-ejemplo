@@ -1,7 +1,7 @@
 import React from 'react'
 import { render } from 'react-dom'
 
-const Page = () => (
+const App = () => (
   <div>
     <p>
       Ejemplo webpack, si me vez funciona React
@@ -10,6 +10,6 @@ const Page = () => (
 );
 
 render(
-  <Page />,
+  <App />,
   document.getElementById('root')
 );
